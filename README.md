@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! I'm avi291927 👋
 
-<!--
-**avi291927/avi291927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 My GitHub Stats
+![avi291927's Stats](https://github-readme-stats.vercel.app/api?username=avi291927&show_icons=true&theme=dracula)
 
-Here are some ideas to get you started:
+### 🔥 My Current Streak
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=avi291927&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages I Use Most
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avi291927&layout=compact&theme=dracula)
+
+---
+
+### 🛠️ What I'm working on
+- 🔭 I’m currently working on improving my coding skills.
+- 🌱 I’m currently learning more about automated workflows.
+- 💬 Ask me about anything!
+
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/avi291927)
