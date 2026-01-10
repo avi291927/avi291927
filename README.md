@@ -1,3 +1,5 @@
+### 🐍 My Contribution Snake
+![snake gif](https://github.com/avi291927/avi291927/blob/output/github-contribution-grid-snake.gif)
 # Hi there! I'm avi291927 👋
 
 ### 📊 My GitHub Stats
