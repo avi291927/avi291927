@@ -1,7 +1,7 @@
 
 # Hi there! I'm Aviral Gupta 
 #  About Me:
-I’m currently working on: Developing efficient algorithms for genomic data analysis and building my foundational software dev skills.<br><br> I’m looking to collaborate on: Open-source projects that involve Python, Data Science, or Health-Tech.<br><br> I’m looking for help with: Advanced Machine Learning techniques specifically for biological sequence modeling.<br><br> I’m currently learning: R programming and Structural Bioinformatics.<br><br> Ask me about: Why I chose to blend Biology with CS, and the best spots to visit in MadhyaPradesh!<br><br> Fun fact: I can explain the structure of DNA and the structure of a C++ program with equal enthusiasm.
+I’m currently working on: Developing efficient algorithms for genomic data analysis and building my foundational software dev skills.<br><br> I’m looking to collaborate on: Open-source projects that involve Python, Data Science, or Health-Tech.<br><br> I’m looking for help with: Advanced Machine Learning techniques specifically for biological sequence modeling.<br><br> I’m currently learning: R programming and Structural Bioinformatics.<br><br><br> Fun fact: I can explain the structure of DNA and the structure of a C++ program with equal enthusiasm.
 
 
 ##  Socials:
